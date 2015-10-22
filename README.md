@@ -1,4 +1,4 @@
-#passwords14
+# Passwords^14
 
 Proof of work as an authentication factor
 
